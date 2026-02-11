@@ -41,10 +41,6 @@ Any output in the program will be transferred to the telegram bot. To send any m
 ### Usage arguments
 You can pass arguments to the plugin; to do this, when calling, you need to specify the arguments separated by a space
 `/plugin arg1 arg2`
-And to process arguments in the plugin you need to use %1 - arg1, %2 - arg2, etc.
-**I recommend using a check for the presence of these arguments, and also checking whether everything was done as it should. Since the program does not monitor how the script was executed, it only monitors whether it was executed**
->An example of using arguments is in the examples, the name of the script is shareFiles
->
 
 ## Service
 
