@@ -1,0 +1,4 @@
+token: "your_token"
+users: ["your_user"]
+allows: ["start"]
+pluginsPath: ""
